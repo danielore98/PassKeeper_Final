@@ -1,4 +1,3 @@
-# utils.py
 from cryptography.fernet import Fernet
 from config import KEY_FILE
 import os
